@@ -1,3 +1,32 @@
+#memos app
+
+Description:
+
+A notetaking app. It functions as a service for making short text notes. Notes can be saved.
+
+Tools:
+
+HTML
+CSS
+JavaScript 
+Reacr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
